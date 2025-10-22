@@ -1,1 +1,1 @@
-# python-for-data-science
+# python-for-AI/ML
